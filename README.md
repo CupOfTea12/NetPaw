@@ -1,2 +1,3 @@
-# SubnetCalculator-v1.0
-A smal hepful app for subnetting 
+# IP Tools 2023 v0.1
+Bunch of small apps for different Ip tooling 
+
