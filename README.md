@@ -2,5 +2,5 @@
 Bunch of small apps for different Ip tooling 
 
 # What to install?
-pip install ipwhois
-pip install tkinter
+- pip install ipwhois
+- pip install tkinter
