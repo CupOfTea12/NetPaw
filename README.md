@@ -14,10 +14,14 @@ Bunch of small apps for different Ip tooling
 -BreachCheck
 
 # What to install?
-- pip install ipwhois
-- pip install tkinter
-- pip install requests
-- pip install socket
-- pip install subprocess
+- ipwhois
+- tkinter
+- requests
+- socket
+- subprocess
+- smtplib
+- dns.resolver
+- email.header
+- email.utils
 
 
