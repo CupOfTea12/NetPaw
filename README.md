@@ -18,5 +18,6 @@ Bunch of small apps for different Ip tooling
 - pip install tkinter
 - pip install requests
 - pip install socket
+- pip install subprocess
 
 
