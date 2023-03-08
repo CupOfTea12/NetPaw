@@ -23,5 +23,7 @@ Bunch of small apps for different Ip tooling
 - dns.resolver
 - email.header
 - email.utils
+- bs4 
+
 
 
