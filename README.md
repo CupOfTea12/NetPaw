@@ -17,4 +17,6 @@ Bunch of small apps for different Ip tooling
 - pip install ipwhois
 - pip install tkinter
 - pip install requests
+- pip install socket
+
 
