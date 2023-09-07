@@ -13,17 +13,7 @@ Bunch of small apps for different Ip tooling
 - Advanced Proxy Check
 -BreachCheck
 
-# What to install?
-- ipwhois
-- tkinter
-- requests
-- socket
-- subprocess
-- smtplib
-- dns.resolver
-- email.header
-- email.utils
-- bs4 
+
 
 
 
